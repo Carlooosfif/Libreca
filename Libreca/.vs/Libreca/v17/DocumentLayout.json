@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carlos.ochoa\\Desktop\\Proyecto\\Libreca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA9B1F3B-A59E-4287-A122-D360A3D6AB6F}|Libreca\\Libreca.csproj|c:\\users\\carlos.ochoa\\desktop\\proyecto\\libreca\\libreca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA9B1F3B-A59E-4287-A122-D360A3D6AB6F}|Libreca\\Libreca.csproj|solutionrelative:libreca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA9B1F3B-A59E-4287-A122-D360A3D6AB6F}|Libreca\\Libreca.csproj|c:\\users\\carlos.ochoa\\desktop\\proyecto\\libreca\\libreca\\middlewares\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA9B1F3B-A59E-4287-A122-D360A3D6AB6F}|Libreca\\Libreca.csproj|solutionrelative:libreca\\middlewares\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA9B1F3B-A59E-4287-A122-D360A3D6AB6F}|Libreca\\Libreca.csproj|c:\\users\\carlos.ochoa\\desktop\\proyecto\\libreca\\libreca\\services\\booksearchclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA9B1F3B-A59E-4287-A122-D360A3D6AB6F}|Libreca\\Libreca.csproj|solutionrelative:libreca\\services\\booksearchclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55377C3D-86E4-404D-A63E-3EC90615A4CB}|BookSearch\\BookSearch.csproj|c:\\users\\carlos.ochoa\\desktop\\proyecto\\libreca\\booksearch\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{55377C3D-86E4-404D-A63E-3EC90615A4CB}|BookSearch\\BookSearch.csproj|solutionrelative:booksearch\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookSearchClient.cs",
+              "DocumentMoniker": "C:\\Users\\carlos.ochoa\\Desktop\\Proyecto\\Libreca\\Libreca\\Services\\BookSearchClient.cs",
+              "RelativeDocumentMoniker": "Libreca\\Services\\BookSearchClient.cs",
+              "ToolTip": "C:\\Users\\carlos.ochoa\\Desktop\\Proyecto\\Libreca\\Libreca\\Services\\BookSearchClient.cs",
+              "RelativeToolTip": "Libreca\\Services\\BookSearchClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:37:24.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RequestLoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\carlos.ochoa\\Desktop\\Proyecto\\Libreca\\Libreca\\Middlewares\\RequestLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "Libreca\\Middlewares\\RequestLoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\carlos.ochoa\\Desktop\\Proyecto\\Libreca\\Libreca\\Middlewares\\RequestLoggingMiddleware.cs",
+              "RelativeToolTip": "Libreca\\Middlewares\\RequestLoggingMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:32:02.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\carlos.ochoa\\Desktop\\Proyecto\\Libreca\\BookSearch\\Dockerfile",
+              "RelativeDocumentMoniker": "BookSearch\\Dockerfile",
+              "ToolTip": "C:\\Users\\carlos.ochoa\\Desktop\\Proyecto\\Libreca\\BookSearch\\Dockerfile",
+              "RelativeToolTip": "BookSearch\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-23T15:16:51.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\carlos.ochoa\\Desktop\\Proyecto\\Libreca\\Libreca\\Program.cs",
+              "RelativeDocumentMoniker": "Libreca\\Program.cs",
+              "ToolTip": "C:\\Users\\carlos.ochoa\\Desktop\\Proyecto\\Libreca\\Libreca\\Program.cs",
+              "RelativeToolTip": "Libreca\\Program.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAwwEsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T20:42:00.618Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

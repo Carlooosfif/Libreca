@@ -1,0 +1,12 @@
+C:\Proyecto\NotificationService\bin\Release\net8.0\linux-x64\NotificationService.deps.json
+C:\Proyecto\NotificationService\bin\Release\net8.0\linux-x64\NotificationService.dll
+C:\Proyecto\NotificationService\bin\Release\net8.0\linux-x64\NotificationService.pdb
+C:\Proyecto\NotificationService\obj\Release\net8.0\linux-x64\NotificationService.csproj.AssemblyReference.cache
+C:\Proyecto\NotificationService\obj\Release\net8.0\linux-x64\NotificationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyecto\NotificationService\obj\Release\net8.0\linux-x64\NotificationService.AssemblyInfoInputs.cache
+C:\Proyecto\NotificationService\obj\Release\net8.0\linux-x64\NotificationService.AssemblyInfo.cs
+C:\Proyecto\NotificationService\obj\Release\net8.0\linux-x64\NotificationService.csproj.CoreCompileInputs.cache
+C:\Proyecto\NotificationService\obj\Release\net8.0\linux-x64\NotificationService.dll
+C:\Proyecto\NotificationService\obj\Release\net8.0\linux-x64\refint\NotificationService.dll
+C:\Proyecto\NotificationService\obj\Release\net8.0\linux-x64\NotificationService.pdb
+C:\Proyecto\NotificationService\obj\Release\net8.0\linux-x64\ref\NotificationService.dll

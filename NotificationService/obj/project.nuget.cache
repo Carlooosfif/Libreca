@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "wnfmr2L4WNXijxR7XFq3BtQJu4WGBYu7neA7yRMDE2zfm9oABMaYFlPu48LyPxo5A96WBBCSBye5vSSN3gKgxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\carlos.ochoa\\Desktop\\Proyecto\\NotificationService\\NotificationService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carlos.ochoa\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\carlos.ochoa\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\carlos.ochoa\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
+    "C:\\Users\\carlos.ochoa\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\8.0.3\\microsoft.netcore.app.runtime.linux-x64.8.0.3.nupkg.sha512",
+    "C:\\Users\\carlos.ochoa\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\8.0.3\\microsoft.netcore.app.host.linux-x64.8.0.3.nupkg.sha512",
+    "C:\\Users\\carlos.ochoa\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.3\\microsoft.aspnetcore.app.runtime.win-x64.8.0.3.nupkg.sha512",
+    "C:\\Users\\carlos.ochoa\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.3\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.3.nupkg.sha512",
+    "C:\\Users\\carlos.ochoa\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.3\\microsoft.netcore.app.runtime.win-x64.8.0.3.nupkg.sha512",
+    "C:\\Users\\carlos.ochoa\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\8.0.3\\microsoft.aspnetcore.app.runtime.linux-x64.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
